@@ -1,0 +1,22 @@
+{
+  "name": "d3js_sandbox",
+  "version": "1.0.0",
+  "description": "D3.js sandbox for testing purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Gura-San/D3.git"
+  },
+  "keywords": [
+    "D3"
+  ],
+  "author": "David Guras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gura-San/D3/issues"
+  },
+  "homepage": "https://github.com/Gura-San/D3#readme"
+}
